@@ -1,3 +1,8 @@
+
+# Source Acknowledgement
+
+This is a sample Spring boot service with modifications taken from https://github.com/AhmadVakil/REST-BookStore-API
+
 # Spring Boot REST API
 
 This project is a book store API that can be used as a backend for e-commerce. 
